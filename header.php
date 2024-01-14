@@ -95,7 +95,8 @@ session_start();
         }
        
         .glyphicon{
-    display: inline-block;
+   
+			display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
     font-size: inherit;
     text-rendering: auto;

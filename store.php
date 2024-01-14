@@ -147,6 +147,7 @@ include 'header.php';
 			<!-- /container -->
 		</div>
 </div>
+
 <?php
 include "newslettter.php";
 include "footer.php";
